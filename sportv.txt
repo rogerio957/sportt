@@ -1,0 +1,489 @@
+
+
+#EXTM3U
+
+#EXTINF:-1,PT: SPORT TV 1
+http://aflaxtv.xyz:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/1483
+#EXTINF:-1,PT: SPORT TV 2
+http://aflaxtv.xyz:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/1486
+#EXTINF:-1,PT: SPORT TV 3
+http://aflaxtv.xyz:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/1489
+#EXTINF:-1,PT: SPORT TV 4
+http://aflaxtv.xyz:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/1492
+#EXTINF:-1,PT: SPORT TV 5
+http://aflaxtv.xyz:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/1495
+#EXTINF:-1,PT: SPORT TV 6
+http://aflaxtv.xyz:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/281487
+#EXTINF:-1,PT: SPORT TV 1
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1483
+#EXTINF:-1,PT: SPORT TV 2
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1486
+#EXTINF:-1,PT: SPORT TV 3
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1489
+#EXTINF:-1,PT: SPORT TV 4
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1492
+#EXTINF:-1,PT: SPORT TV 5
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1495
+#EXTINF:-1,PT: SPORT TV 6
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/281487
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77330
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77331
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77332
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77333
+#EXTINF:-1,PT: SPORT TV 1 UHD (extra1)
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77334
+#EXTINF:-1,PT: SPORT TV 1 HEVC
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77335
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77336
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77337
+#EXTINF:-1,PT: SPORT TV 2 UHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77338
+#EXTINF:-1,PT: SPORT TV 2 HEVC
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77339
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77340
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77341
+#EXTINF:-1,PT: SPORT TV 3 UHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77342
+#EXTINF:-1,PT: SPORT TV 4 HD ʰᵉᵛᶜ
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77343
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77344
+#EXTINF:-1,PT: SPORT TV 4 UHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77345
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77346
+#EXTINF:-1,PT: SPORT TV 5 FHD ʰᵉᵛᶜ
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77347
+#EXTINF:-1,PT: SPORT TV 5 UHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77348
+#EXTINF:-1,||PT|| SPORT TV 1  LOCAL
+http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36979
+#EXTINF:-1,||pt|| SPORT TV 2 LOCAL
+http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36980
+#EXTINF:-1,||pt|| SPORT TV 3 LOCAL
+http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36981
+#EXTINF:-1,||pt|| SPORT TV 4 LOCAL
+http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36982
+#EXTINF:-1,||pt|| SPORT TV 5 LOCAL
+http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36983
+#EXTINF:-1,||PT|| SPORT TV 1 4k
+http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/37016
+#EXTINF:-1,||pt|| SPORT TV 2  4K
+http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/37017
+#EXTINF:-1,PT1: SPORT TV 1
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78513
+#EXTINF:-1,PT1: SPORT TV 1 FHD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78414
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/77923
+#EXTINF:-1,PT1: SPORT TV 2
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78514
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/77926
+#EXTINF:-1,PT1: SPORT TV 2 FHD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78415
+#EXTINF:-1,PT1: SPORT TV 3
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78515
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/77931
+#EXTINF:-1,PT1: SPORT TV 3 HD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78416
+#EXTINF:-1,PT1: SPORT TV 4
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78516
+#EXTINF:-1,PT1: SPORT TV 4 FHD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78418
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/77935
+#EXTINF:-1,PT1: SPORT TV 5
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78517
+#EXTINF:-1,PT: SPORT TV 5 FHD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/77937
+#EXTINF:-1,PT1: SPORT TV 5 HD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78419
+#EXTINF:-1,PT1: SPORT TV 6 FHD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78504
+#EXTINF:-1,PT: SPORT TV 6 HD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/77940
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77330
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77331
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77332
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77333
+#EXTINF:-1,PT: SPORT TV 1 UHD (extra1)
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77334
+#EXTINF:-1,PT: SPORT TV 1 HEVC
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77335
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77336
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77337
+#EXTINF:-1,PT: SPORT TV 2 UHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77338
+#EXTINF:-1,PT: SPORT TV 2 HEVC
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77339
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77340
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77341
+#EXTINF:-1,PT: SPORT TV 3 UHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77342
+#EXTINF:-1,PT: SPORT TV 4 HD ʰᵉᵛᶜ
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77343
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77344
+#EXTINF:-1,PT: SPORT TV 4 UHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77345
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77346
+#EXTINF:-1,PT: SPORT TV 5 FHD ʰᵉᵛᶜ
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77347
+#EXTINF:-1,PT: SPORT TV 5 UHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77348
+#EXTINF:-1,PT: SPORT TV1 HD
+http://box.slweb.tv:8880/nadorge/1lT8oRcMN3/430
+#EXTINF:-1,PT: SPORT TV2
+http://box.slweb.tv:8880/nadorge/1lT8oRcMN3/431
+#EXTINF:-1,PT: SPORT TV5
+http://box.slweb.tv:8880/nadorge/1lT8oRcMN3/434
+#EXTINF:-1,PT | SPORT TV 1ⓧ 4K HEVC
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/74187
+#EXTINF:-1,PT | SPORT TV 1ⓧ FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9879
+#EXTINF:-1,PT | SPORT TV 1ⓧ HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9526
+#EXTINF:-1,PT | SPORT TV 1ⓧ HD HEVC
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/74083
+#EXTINF:-1,PT | SPORT TV 1ⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9525
+#EXTINF:-1,PT | SPORT TV 1ⓧ UHD HEVC
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/74113
+#EXTINF:-1,PT | SPORT TV 2ⓧ FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9529
+#EXTINF:-1,PT | SPORT TV 2ⓧ FHD HEVC
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/74168
+#EXTINF:-1,PT | SPORT TV 2ⓧ HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9528
+#EXTINF:-1,PT | SPORT TV 2ⓧ HD HEVC
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/74116
+#EXTINF:-1,PT | SPORT TV 2ⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9527
+#EXTINF:-1,PT | SPORT TV 3ⓧ FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9532
+#EXTINF:-1,PT | SPORT TV 3ⓧ FHD HEVC
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/74103
+#EXTINF:-1,PT | SPORT TV 3ⓧ HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9531
+#EXTINF:-1,PT | SPORT TV 3ⓧ HD HEVC
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/74104
+#EXTINF:-1,PT | SPORT TV 3ⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9530
+#EXTINF:-1,PT | SPORT TV 4ⓧ FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9535
+#EXTINF:-1,PT | SPORT TV 4ⓧ HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9534
+#EXTINF:-1,PT | SPORT TV 4ⓧ HD HEVC
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/12690
+#EXTINF:-1,PT | SPORT TV 4ⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9533
+#EXTINF:-1,PT | SPORT TV 5ⓧ FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9538
+#EXTINF:-1,PT | SPORT TV 5ⓧ Full HD HEVC
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/74094
+#EXTINF:-1,PT | SPORT TV 5ⓧ HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9537
+#EXTINF:-1,PT | SPORT TV 5ⓧ HD HEVC
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/74105
+#EXTINF:-1,PT | SPORT TV 5ⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9536
+#EXTINF:-1,PT | SPORT TV 6ⓧ FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/108253
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", |PT| Sport TV 1 4K+
+http://cpanel.traveliptv.nl:80/12unioniptv12/RhXNL2W8vU54/14550
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", |PT| Sport TV 4 4K+
+http://cpanel.traveliptv.nl:80/12unioniptv12/RhXNL2W8vU54/14553
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Sport Tv 1 FHD
+http://aca3b.tk:8080/Avanger/4F8pEqSzP8M77/880
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Sport Tv 2 HD
+http://aca3b.tk:8080/Avanger/4F8pEqSzP8M77/881
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: SPORT TV 2 FHD
+http://aca3b.tk:8080/Avanger/4F8pEqSzP8M77/882
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Sport Tv 3 HD
+http://aca3b.tk:8080/Avanger/4F8pEqSzP8M77/883
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Sport Tv 4 HD
+http://aca3b.tk:8080/Avanger/4F8pEqSzP8M77/884
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Sport Tv 5 HD
+http://aca3b.tk:8080/Avanger/4F8pEqSzP8M77/885
+#EXTINF:-1,|PT| Sport TV 1 4K+
+http://62.182.83.91:80/1@exchangepro123@1/1@hdhSajGGEJgaa@1/14550
+#EXTINF:-1,|PT| Sport TV 2 4K+
+http://62.182.83.91:80/1@exchangepro123@1/1@hdhSajGGEJgaa@1/14551
+#EXTINF:-1,|PT| Sport TV 3 4K+
+http://62.182.83.91:80/1@exchangepro123@1/1@hdhSajGGEJgaa@1/14552
+#EXTINF:-1,|PT| Sport TV 4 4K+
+http://62.182.83.91:80/1@exchangepro123@1/1@hdhSajGGEJgaa@1/14553
+#EXTINF:-1,|PT| Sport TV 5 4K+
+http://62.182.83.91:80/1@exchangepro123@1/1@hdhSajGGEJgaa@1/14554
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77330
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77331
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77332
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77333
+#EXTINF:-1,PT: SPORT TV 1 UHD (extra1)
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77334
+#EXTINF:-1,PT: SPORT TV 1 HEVC
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77335
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77336
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77337
+#EXTINF:-1,PT: SPORT TV 2 UHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77338
+#EXTINF:-1,PT: SPORT TV 2 HEVC
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77339
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77340
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77341
+#EXTINF:-1,PT: SPORT TV 3 UHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77342
+#EXTINF:-1,PT: SPORT TV 4 HD ʰᵉᵛᶜ
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77343
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77344
+#EXTINF:-1,PT: SPORT TV 4 UHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77345
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77346
+#EXTINF:-1,PT: SPORT TV 5 FHD ʰᵉᵛᶜ
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77347
+#EXTINF:-1,PT: SPORT TV 5 UHD
+http://ip.xtremetv.eu:8000/ataa/caBeFNgbFaZN/77348
+#EXTINF:-1,PT | SPORT TV 1 4K
+http://metaip.tv:80/rezastar7/ucCIshvpYj/1305
+#EXTINF:-1,PT | SPORT TV 2 4K
+http://metaip.tv:80/rezastar7/ucCIshvpYj/1306
+#EXTINF:-1,PT | SPORT TV 3 4K
+http://metaip.tv:80/rezastar7/ucCIshvpYj/1307
+#EXTINF:-1,PT | SPORT TV 4 ᴴᴰ
+http://metaip.tv:80/rezastar7/ucCIshvpYj/1308
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
